@@ -1,4 +1,4 @@
-<h1 align="center">Quiz Copa do Mundo :soccer: :trophy:</h1>
+<h1 align="center">:soccer: Quiz Copa do Mundo :trophy:</h1>
 
 <h3>projeto desenvolvido para aplicar conhecimento adquirido em curso, e acrescentar ao portfólio pessoal.</h3>
 <br/><hr><br/>
@@ -10,7 +10,7 @@
     <a href="#preview">Pré-Visualização</a> •
     <a href="#teste">Teste</a> •
     <a href="#tecnologias">Tecnologias</a> •
-    <a href="#contato">Contato</a> •
+    <a href="#contato">Contato</a>
 </p>
 <br/><hr><br/>
 <div id="sobre">
